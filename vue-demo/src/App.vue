@@ -72,7 +72,7 @@ import VIfElseBtn from './components/VIfElseBtn.vue'
       <div class="card mb-5">
         <div class="header">
           <h1 class="green card-header">List Rendering</h1>
-          <h2>v-if</h2>
+          <h2>v-for</h2>
           <p>
             The directive v-if is used to conditionally render a block. <br />
             The block will only be rendered if the directive's expression returns a truthy value.
