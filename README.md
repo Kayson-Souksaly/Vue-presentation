@@ -20,7 +20,11 @@ All components are imported and rendered in `App.vue` using Bootstrap cards for 
 
 ---
 
-## 🛠️ Getting Started
+## 🎯 Deployed on Render.com
+
+- Link: https://vue-demo-app.onrender.com
+
+## 🛠️ Want to use on local computer?
 
 - Recommended VS Code extensions:
   - ESLint
@@ -36,3 +40,13 @@ npm run dev
 Then open your browser to [http://localhost:5173](http://localhost:5173)
 
 ---
+
+## 🙌 Learning Outcomes
+
+### By exploring each component, students will:
+
+- Understand the purpose of ref, reactive, and computed
+
+- See how to handle conditional rendering and list output
+
+- Interact with real reactive state in the browser
