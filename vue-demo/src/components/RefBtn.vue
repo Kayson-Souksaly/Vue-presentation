@@ -28,7 +28,4 @@ const greeting = 'How was your day?'
 div {
   text-align: center;
 }
-button {
-  font-size: 1.5em;
-}
 </style>
