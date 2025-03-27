@@ -24,8 +24,8 @@
     <!-- Display result based on whether the answer is correct -->
     <div class="container w-100">
       <div class="result-box w-50">
-        <h3 v-if="isAnswerCorrect == true" class="text-success">Correct!</h3>
-        <h3 v-else-if="isAnswerCorrect == false" class="text-danger">Incorrect!</h3>
+        <h3 v-if="isAnswerCorrect == true" class="text-success">Correct!🥳</h3>
+        <h3 v-else-if="isAnswerCorrect == false" class="text-danger">Incorrect!😥</h3>
         <h3 v-else class="text-info">Please answer!</h3>
       </div>
     </div>
