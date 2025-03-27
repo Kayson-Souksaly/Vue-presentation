@@ -49,4 +49,6 @@ Then open your browser to [http://localhost:5173](http://localhost:5173)
 
 - See how to handle conditional rendering and list output
 
+- Create interactive form with input binding and event handlers
+
 - Interact with real reactive state in the browser
