@@ -132,13 +132,22 @@ import VIfElseBtn from './components/VIfElseBtn.vue'
           </div>
         </div>
         <div class="card-body">
-          <p class="text-info">Download template code here</p>
+          <p class="text-info">Download Template Code Here</p>
           <a
             href="https://github.com/Kayson-Souksaly/Vue-ClassDemo"
             target="_blank"
             class="btn btn-success"
             >Click Here!</a
           >
+
+          <p class="text-info mt-4">View Completed Calculator</p>
+          <a
+            href="https://vue-calculator-0g6r.onrender.com/"
+            target="_blank"
+            class="btn btn-success"
+          >
+            Calculator App
+          </a>
         </div>
       </div>
     </section>
