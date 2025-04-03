@@ -15,6 +15,7 @@ Each component in this app highlights a different Vue feature:
 | `ComputedBtn.vue`   | `computed()` – Derived state                                   |
 | `VIfElseBtn.vue`    | `v-if / v-else` – Conditional rendering with dropdown & images |
 | `ListRenderBtn.vue` | `v-for` – List rendering with a reactive array                 |
+| `ListRenderBtn.vue` | `v-model` – Bind form input with reactive data                 |
 
 All components are imported and rendered in `App.vue` using Bootstrap cards for layout and clarity.
 
@@ -22,7 +23,7 @@ All components are imported and rendered in `App.vue` using Bootstrap cards for 
 
 ## 🎯 Deployed on Render.com
 
-- Link: https://vue-demo-app.onrender.com
+- Link: https://vue-presentation.onrender.com/
 
 ## 🛠️ Want to use on local computer?
 
